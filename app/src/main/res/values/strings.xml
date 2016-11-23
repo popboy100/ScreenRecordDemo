@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenRecordDemo</string>
+    <string name="start_server">启动服务</string>
+    <string name="stop_server">停止服务</string>
+    <string name="start_client">启动控制</string>
+    <string name="screen_recording">正在录屏中…</string>
+</resources>
